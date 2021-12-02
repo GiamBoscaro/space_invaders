@@ -1,8 +1,8 @@
 <launch4jConfig>
   <dontWrapJar>false</dontWrapJar>
   <headerType>gui</headerType>
-  <jar>F:\Compiti\Sistemi\Java\Workspace\Space Invaders\Space Invaders.jar</jar>
-  <outfile>F:\Compiti\Sistemi\Java\Workspace\Space Invaders\SpaceInvaders.exe</outfile>
+  <jar>F:\Documenti\Eclipse Projects\Space Invaders\Space Invaders.jar</jar>
+  <outfile>F:\Documenti\Eclipse Projects\Space Invaders\SpaceInvaders.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
   <chdir></chdir>
@@ -12,7 +12,7 @@
   <customProcName>false</customProcName>
   <stayAlive>false</stayAlive>
   <manifest></manifest>
-  <icon>F:\Compiti\Sistemi\Java\Workspace\Space Invaders\space-invaders-icon.ico</icon>
+  <icon>F:\Documenti\Eclipse Projects\Space Invaders\space-invaders-icon.ico</icon>
   <jre>
     <path></path>
     <minVersion>1.4.0</minVersion>
@@ -20,7 +20,7 @@
     <jdkPreference>preferJre</jdkPreference>
   </jre>
   <splash>
-    <file>F:\Compiti\Sistemi\Java\Workspace\Space Invaders\splash.bmp</file>
+    <file>F:\Documenti\Eclipse Projects\Space Invaders\splash.bmp</file>
     <waitForWindow>true</waitForWindow>
     <timeout>60</timeout>
     <timeoutErr>true</timeoutErr>
